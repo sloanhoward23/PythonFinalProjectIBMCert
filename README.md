@@ -1,0 +1,1 @@
+On Question 6, the Skills Network Labs from the IBM Data Analyst Certification was not executing the code as it was supposed to and created an error. Could not endof fixing it but the code for the answer is correct!
